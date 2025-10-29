@@ -1,5 +1,7 @@
 Amity Runner  - Z principu nevhodné pro zlé lidi.
 
+---OTOČ TELEFON NA ŠÍŘKU---
+
 ## 🎮 Jak hrát
 
 - **Mobil/Tablet**: Klepněte na obrazovku pro skok
