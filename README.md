@@ -1,7 +1,5 @@
 Amity Runner  - Z principu nevhodné pro zlé lidi.
 
-Mobilní hra ve stylu Chrome T-Rex s plechovkami Amatcha!
-
 ## 🎮 Jak hrát
 
 - **Mobil/Tablet**: Klepněte na obrazovku pro skok
